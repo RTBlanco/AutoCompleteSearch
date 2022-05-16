@@ -6,4 +6,20 @@ body {
   justify-content: center;
   align-items: center;
   border: 1px red solid;
+  background-color: rgb(79, 139, 218);
+}
+
+form {
+  display: flex;
+  height: 21px;
+}
+
+.search-area {
+
+}
+
+#search {
+  display: none;
+  border: 1px solid red;
+  background-color: white;
 }
